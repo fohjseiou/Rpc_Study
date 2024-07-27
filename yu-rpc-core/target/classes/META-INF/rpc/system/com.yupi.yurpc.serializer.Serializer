@@ -1,0 +1,4 @@
+jdk=com.yupi.yurpc.serializer.JdkSerializer
+hessian=com.yupi.yurpc.serializer.HessianSerializer
+kryo=com.yupi.yurpc.serializer.KryoSerializer
+json=com.yupi.yurpc.serializer.JsonSerializer

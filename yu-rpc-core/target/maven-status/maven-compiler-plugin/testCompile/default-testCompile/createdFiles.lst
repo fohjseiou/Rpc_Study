@@ -1,0 +1,6 @@
+com\yupi\yurpc\registry\registry\RegistryTest.class
+com\yupi\yurpc\registry\lambda\lambdaTest$Message.class
+com\yupi\yurpc\registry\lambda\lambdaTest.class
+com\yupi\yurpc\registry\tcp\ProtocolMessageTest.class
+com\yupi\yurpc\registry\lambda\lambdaTest$Email.class
+com\yupi\yurpc\registry\lambda\lambdaTest$Msi.class
